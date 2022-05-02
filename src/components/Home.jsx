@@ -31,10 +31,9 @@ const Home = () => {
             </span>
           </button>
 
-
         </div>
 
-        </div>
+      </div>
 
     </div>
   )
